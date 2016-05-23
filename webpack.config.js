@@ -15,7 +15,7 @@ module.exports = {
           presets: ['react', 'es2015']
         },
         test: /\.jsx?$/,
-        exculde:/(node_modules|bower_components)/  
+        exculde:/(node_modules|bower_components)/
     }
   ]
   }
